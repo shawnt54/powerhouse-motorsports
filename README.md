@@ -1,2 +1,1 @@
-# Shawn Thurlow React Portfolio Application
-
+# Powerhouse eCommerce Application
